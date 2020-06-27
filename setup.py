@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="zeptron-ZEPTRON", # Replace with your own username
-    version="0.0.1",
+    name="zeptron", # Replace with your own username
+    version="0.0.2",
     author="Jose Mathias",
     author_email="hello@zeptron.co",
     description="A super lightweight streaming module using ZMQ",

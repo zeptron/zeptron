@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: zeptron-ZEPTRON
-Version: 0.0.1
+Name: zeptron
+Version: 0.0.2
 Summary: A super lightweight streaming module using ZMQ
 Home-page: https://github.com/zeptron/zeptron
 Author: Jose Mathias
