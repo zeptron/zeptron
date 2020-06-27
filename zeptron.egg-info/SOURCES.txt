@@ -1,5 +1,7 @@
 README.md
 setup.py
+script/__init__.py
+script/zeptron.py
 zeptron.egg-info/PKG-INFO
 zeptron.egg-info/SOURCES.txt
 zeptron.egg-info/dependency_links.txt
