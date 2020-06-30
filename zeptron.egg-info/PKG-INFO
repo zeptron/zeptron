@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: zeptron
-Version: 1.0.0
+Version: 1.0.1
 Summary: A super lightweight streaming module using ZMQ
 Home-page: https://github.com/zeptron/zeptron
 Author: Jose Mathias
@@ -20,7 +20,7 @@ Description: # zeptron live streaming to any server / port using TCP
         
         Then run it using the following command: 
         
-        `zeptron -i IP_ADDRESS -p PORT -r True`
+        `zeptron -i IP_ADDRESS -p PORT`
         
         The flags are as follows: 
         
@@ -43,7 +43,6 @@ Description: # zeptron live streaming to any server / port using TCP
         
         - [ZeroMQ](https://zeromq.org/)
         - [ImageZMQ](https://zeromq.org/)
-        - [PyImageSearch](https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/)
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

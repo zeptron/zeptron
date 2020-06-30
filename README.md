@@ -12,7 +12,7 @@ Simple install the package using:
 
 Then run it using the following command: 
 
-`zeptron -i IP_ADDRESS -p PORT -r True`
+`zeptron -i IP_ADDRESS -p PORT`
 
 The flags are as follows: 
 
@@ -35,4 +35,3 @@ This package borrows heavily from:
 
 - [ZeroMQ](https://zeromq.org/)
 - [ImageZMQ](https://zeromq.org/)
-- [PyImageSearch](https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/)

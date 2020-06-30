@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 
 setuptools.setup(
     name="zeptron", # Replace with your own username
-    version="1.0.0",
+    version="1.0.1",
     author="Jose Mathias",
     author_email="hello@zeptron.co",
     description="A super lightweight streaming module using ZMQ",
